@@ -1,0 +1,1 @@
+We're going to make a basic chocolate chip cookie recipe website for this project. We will include of a picture of said chocolate chip cookie and see what ingredients are needed in order to make them.
